@@ -1,7 +1,7 @@
 # 2D Breakout Game
 
 - Pure JavaScript
-- HTML 5 <canvas>
+- HTML 5 canvas
   
   ## To Play The Game
   - Download the index.html
